@@ -39,18 +39,7 @@ I like creating practical applications that combine clean software design, full-
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,firebase,mysql,html,css,git,github,vscode,tensorflow&perline=7" alt="Python, Java, JavaScript, TypeScript, React, Node.js, Firebase, MySQL, HTML, CSS, Git, GitHub, VS Code, and TensorFlow icons" />
 </div>
 
-## GitHub stats
-
 <div align="center">
-
-<a href="https://github.com/Harshxo44">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshxo44&show_icons=true&theme=dark&hide_border=true&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff&bg_color=0d1117" height="165" alt="Harsh's GitHub statistics" />
-</a>
-<a href="https://github.com/Harshxo44">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshxo44&layout=compact&theme=dark&hide_border=true&title_color=67e8f9&text_color=ffffff&bg_color=0d1117" height="165" alt="Harsh's top languages" />
-</a>
-
-<br />
 
 <img src="https://streak-stats.demolab.com?user=Harshxo44&theme=dark&hide_border=true&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9&background=0d1117" alt="Harsh's GitHub contribution streak" />
 
