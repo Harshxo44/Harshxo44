@@ -14,13 +14,13 @@
 
 </div>
 
-## 👋 About me
+## About me
 
 I’m **Harsh Sharma**, a Computer Science / Information Technology student at **Parul University**, building toward a career in **software engineering with a focus on AI/ML**.
 
 I like creating practical applications that combine clean software design, full-stack development, data, and intelligent systems.
 
-## 🧩 What I’m building toward
+## What I’m building toward
 
 | Software engineering | AI / ML |
 | --- | --- |
@@ -29,17 +29,17 @@ I like creating practical applications that combine clean software design, full-
 | Databases and SQL | RAG and vector search |
 | Data structures and algorithms | AI assistants and agents |
 
-## 🚗 Featured project
+## Featured project
 
 **AI Car Assistant** — An intelligent routing system that identifies car-related questions and sends them to specialized automotive knowledge, while using web search or general AI for broader questions.
 
-## 🛠️ Tech stack
+## Tech stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,firebase,mysql,html,css,git,github,vscode,tensorflow&perline=7" alt="Python, Java, JavaScript, TypeScript, React, Node.js, Firebase, MySQL, HTML, CSS, Git, GitHub, VS Code, and TensorFlow icons" />
 </div>
 
-## 📊 GitHub stats
+## GitHub stats
 
 <div align="center">
 
@@ -63,20 +63,20 @@ I like creating practical applications that combine clean software design, full-
 <!--
 OPTIONAL SECTIONS TO ADD LATER
 
-### 🏆 Achievements
+### Achievements
 - Add certifications, hackathons, internships, or awards here.
 
-### 🤝 Open to
+### Open to
 - Open-source collaboration
 - Internship opportunities
 - AI/ML and full-stack projects
 
-### 💡 Fun fact
+### Fun fact
 > Add one genuine personal detail here.
 
-### 📈 Contribution graph
+### Contribution graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshxo44&theme=react-dark&hide_border=true" alt="Contribution activity graph" />
 
-### 🐍 Contribution snake
+### Contribution snake
 ![Contribution snake](https://raw.githubusercontent.com/Harshxo44/Harshxo44/output/github-contribution-grid-snake.svg)
 -->
