@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4338ca,100:06b6d4&height=210&section=header&text=Harsh%20Sharma&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Intelligent%20Applications&descAlignY=60&descSize=16&animation=fadeIn" alt="Animated Harsh Sharma profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=210&section=header&text=Harsh%20Sharma&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Intelligent%20Applications&descAlignY=60&descSize=16&animation=twinkling" alt="Animated Harsh Sharma profile header" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=720&height=52&lines=I+build+software+with+intelligence;Exploring+LLMs%2C+RAG%2C+and+AI+agents;Turning+ideas+into+useful+applications" alt="Animated typing introduction" />
