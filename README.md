@@ -33,35 +33,28 @@ I like creating practical applications that combine clean software design, full-
 
 **AI Car Assistant** — An intelligent routing system that identifies car-related questions and sends them to specialized automotive knowledge, while using web search or general AI for broader questions.
 
-## 📌 Project ideas and work in progress
-
-- **RAG PDF Intelligence** — Ask questions over PDF content using retrieval and vector embeddings.
-- **AI Resume Analyzer** — Explore resume analysis, feedback, and job matching.
-- **AI Interview Assistant** — Build an intelligent tool for interview preparation.
-- **POD Job Platform** — A full-stack candidate and application workflow concept.
-
 ## 🛠️ Tech stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,firebase,mysql,html,css,git,github,vscode,tensorflow&perline=7" alt="Python, Java, JavaScript, TypeScript, React, Node.js, Firebase, MySQL, HTML, CSS, Git, GitHub, VS Code, and TensorFlow icons" />
 </div>
 
-## 📚 Currently learning
-
-`Machine Learning` · `Data preprocessing` · `EDA` · `Feature engineering` · `LLMs` · `RAG` · `AI agents` · `Backend development`
-
-## 📊 GitHub snapshot
+## 📊 GitHub stats
 
 <div align="center">
-  <a href="https://github.com/Harshxo44?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Harshxo44&show_icons=true&hide_border=true&border_radius=16&theme=transparent&title_color=4f46e5&icon_color=0891b2&text_color=475569&bg_color=ffffff" width="410" alt="Harsh's GitHub statistics" /></a>
-  <a href="https://github.com/Harshxo44?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshxo44&layout=compact&hide_border=true&border_radius=16&theme=transparent&title_color=4f46e5&text_color=475569&bg_color=ffffff" width="330" alt="Harsh's most used languages" /></a>
+
+<a href="https://github.com/Harshxo44">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshxo44&show_icons=true&theme=dark&hide_border=true&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff&bg_color=0d1117" height="165" alt="Harsh's GitHub statistics" />
+</a>
+<a href="https://github.com/Harshxo44">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshxo44&layout=compact&theme=dark&hide_border=true&title_color=67e8f9&text_color=ffffff&bg_color=0d1117" height="165" alt="Harsh's top languages" />
+</a>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Harshxo44&theme=dark&hide_border=true&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9&background=0d1117" alt="Harsh's GitHub contribution streak" />
+
 </div>
-
-## 🌱 Goals
-
-- Build and deploy useful AI-powered products
-- Strengthen software engineering and system design
-- Contribute to open source and collaborate on real-world projects
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshxo44&style=flat-square&color=4f46e5&label=PROFILE+VIEWS" alt="Profile views" />
